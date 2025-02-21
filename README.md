@@ -5,7 +5,8 @@ This exploratory data analysis (EDA) focuses on examining income distribution in
 information about Brazilian municipalities. The specific subset of data selected for this study focuses on Rio Grande do Sul (RS), in Brazil. Data was downloaded using {censobr} an R package to download data from Brazil’s Population Census, and the {geobr} package that provides quick and easy access to official spatial data sets of Brazil.
 
 ## Ultility Belt
-- R, RStudio
+- R
+- RStudio
 - Geospatial Analysis
 
 ## Key Findings
